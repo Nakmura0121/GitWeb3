@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+}
+li{
+    padding: 20px;
+    font-size: 30px;
+    list-style: none;
+    
+}
+.carousel{
+    size: 20px;
+}
+.name{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 40px;
+}
+.carousel{
+    size: 40px;
+}

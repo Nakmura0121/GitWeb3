@@ -1,0 +1,26 @@
+@charset "UTF-8";
+h1{
+    text-align: center;
+}
+a {
+    font-size: 30px;
+    margin: 10px 20px 10px 20px;
+}
+img {
+    width: 100%;
+    height: 250px;
+}
+h2{
+    text-align: left;
+    font-size: 30px;
+    margin: 20px 10px 10px 20px;
+}
+.iwate {
+    width: auto;
+}
+table{
+    margin: auto;
+}
+.miryoku{
+    margin: auto;
+}

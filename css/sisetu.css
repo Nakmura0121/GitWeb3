@@ -1,0 +1,33 @@
+@charset "UTF-8";
+h1{
+    text-align: center;
+}
+a {
+    font-size: 30px;
+    margin: 10px 20px 10px 20px;
+}
+table{
+    margin: 10px 20px 10px 20px ;
+}
+.ski{
+    margin: 10px 30px 10px 10px;
+    height: 300px;
+    width: 400px;
+}
+.koiwai{
+    margin: 10px 30px 10px 10px;
+    height: 200px;
+    width: 400px;
+}
+.oshuku{
+    margin: 10px 30px 10px 10px;
+    height: 300px;
+    width: 400px;
+}
+
+
+
+
+
+
+

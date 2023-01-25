@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+}
+a {
+    font-size: 30px;
+    margin: 10px 20px 10px 20px;
+}
+table{
+    margin: 10px 20px 10px 20px ;
+}
+.sandaimen{
+    margin: 10px 30px 10px 10px;
+    height: 400px;
+    width: 500px;
+}
+.hukudapan{
+    margin: 10px 30px 10px 10px;
+    height: 200px;
+    width: 500px;
+}
+.marukan{
+    margin: 10px 30px 10px 10px;
+    height: 300px;
+    width: 500px;
+}
